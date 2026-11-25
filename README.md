@@ -2,7 +2,7 @@
 
 > A curated list of crypto wallets for self-custody: hardware, mobile and Web3, with plain-language explainers.
 
-Maintained by [TokenAlphabet](https://tokenalphabet.com/). Check live prices and charts for the coins you hold on [tokenalphabet.com](https://tokenalphabet.com/).
+Maintained by [TokenAlphabet](https://token-alphabet.com/). Check live prices and charts for the coins you hold on [token-alphabet.com](https://token-alphabet.com/).
 
 Nothing here is financial advice. Always download wallets from the official site only.
 
