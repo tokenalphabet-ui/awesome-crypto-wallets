@@ -12,6 +12,7 @@ Nothing here is financial advice. Always download wallets from the official site
 - [Hardware wallets](#hardware-wallets)
 - [Mobile wallets](#mobile-wallets)
 - [Browser and Web3 wallets](#browser-and-web3-wallets)
+- [Multisig wallets](#multisig-wallets)
 - [Comparisons](#comparisons)
 - [Contributing](#contributing)
 
@@ -45,6 +46,13 @@ Nothing here is financial advice. Always download wallets from the official site
 - [Phantom](https://phantom.com/) - Wallet built around Solana. [Explained](https://tokenalphabet.com/blog/phantom-explained-what-the-solana-wallet-does-what-it-costs-and-who-it-fits)
 - [Backpack](https://backpack.app/) - Wallet from the xNFT and exchange team. [Explained](https://tokenalphabet.com/blog/backpack-wallet-explained-the-xnft-promise-the-exchange-pivot-and-what-to-check-first)
 - [Best Web3 wallets for Ethereum, Solana and Layer 2](https://tokenalphabet.com/blog/best-web3-wallets-for-ethereum-solana-and-layer-2-networks) - Overview by network.
+
+## Multisig wallets
+
+Wallets that need several approvals (for example 2 of 3 keys) before a transaction goes through, so one lost or stolen key does not drain the funds.
+
+- [Safe](https://safe.global/) - Smart contract multisig for Ethereum and other EVM networks, formerly Gnosis Safe. [Explained](https://tokenalphabet.com/blog/multisig-wallets-explained-protecting-crypto-beyond-seed-phrases)
+- [Casa](https://casa.io/) - Bitcoin multisig packaged as a service for individuals, with keys spread across devices.
 
 ## Comparisons
 
