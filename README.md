@@ -48,6 +48,7 @@ Nothing here is financial advice. Always download wallets from the official site
 - [Trust Wallet](https://trustwallet.com/) - Multi-chain mobile wallet. [Explained](https://tokenalphabet.com/blog/trust-wallet-explained-why-it-s-still-one-of-the-most-popular-mobile-wallets)
 - [Exodus](https://www.exodus.com/) - Multi-asset desktop and mobile wallet with built-in swaps.
 - [Zengo](https://zengo.com/) - Mobile wallet that uses MPC key shares instead of a seed phrase.
+- [Ownbit](https://ownbit.io/en/) - Self-custody mobile wallet with cross-chain multisig, QR-based offline signing, and paid membership plans.
 
 ## Bitcoin wallets
 
